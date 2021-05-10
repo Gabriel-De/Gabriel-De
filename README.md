@@ -1,6 +1,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=gabriel-de.visitor-badge)
 <h1 align=>Hi 👋, I'm Gabriel Menezes</h1>
-<h3 align="left">Passionate about technology, creative, efficient and proactive, with initiative and desire to continue learning in this world of programming. Here I will share my projects. Welcome to my world.🌎</h3>
+<h3 align="left">Passionate about technology, creative, efficient and proactive, with initiative and desire to continue learning in this world of programming. Here I will share my projects.</h3>
+<h3>Welcome to my world.🌎</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
