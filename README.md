@@ -1,4 +1,3 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=gabriel-de.visitor-badge)
 ![Hits](https://hits.sh/github.com/Gabriel-De/Gabriel-De/Gabriel-De.svg?style=flat-square)
 
 <h1 align=>Hi 👋, I'm Gabriel Menezes</h1>
