@@ -1,4 +1,4 @@
-![Visitas](https://hits.sh/github.com/Gabriel-De/Gabriel-De/Gabriel-De.svg?style=flat-square&label=Visitas)
+![Visits](https://hits.sh/github.com/Gabriel-De/Gabriel-De/Gabriel-De.svg?style=flat-square&label=Visits)
 
 <h1 align=>Hi 👋, I'm Gabriel Menezes</h1>
 <h3 align="left">Passionate about technology, creative, efficient and proactive, with initiative and desire to continue learning in this world of programming. Here I will share my projects.</h3>
